@@ -6,9 +6,9 @@ Click a button to open the notebook in Google Colab, then click **File → Save 
 
 | | Notebook | What you'll do |
 |---|---|---|
-| 🧠 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebooks/00_Lecture.ipynb) **Lecture** | Games, slides and live demos: see how AI chops text into tokens, builds a map of meaning and predicts the next word |
-| 📚 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebooks/01_Lab_RAG_AI_Librarian.ipynb) **Lab 1: AI Librarian** | Pick a theme (Harry Potter, Minecraft, Pokémon or football), build an AI that answers questions from your own library (RAG), then try to break it |
-| 🕵️ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebooks/02_Lab_Agent_Detective.ipynb) **Lab 2: Detective Bot** | Give an AI agent tools and watch it solve "The Case of the Missing Sorting Hat" on its own |
+| 🧠 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10eNgqQp8OEyxRFONL85B6n-0BKKJZeDX?usp=sharing) **Lecture** | Live demos from the lecture: see how AI chops text into tokens, builds a map of meaning and predicts the next word |
+| 📚 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18OBUAj5uzQMNoI-LGGkariGAyrUJ5QfV?usp=sharing) **Lab 1: AI Librarian** | Pick a theme (Harry Potter, Minecraft, Pokémon or football), build an AI that answers questions from your own library (RAG), then try to break it |
+| 🕵️ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14OWOzZcIKp_M20-juDM-kCArT66JoZpS?usp=sharing) **Lab 2: Detective Bot** | Give an AI agent tools and watch it solve "The Case of the Missing Sorting Hat" on its own |
 
 ## 🧭 How to use a notebook
 - Press **Shift + Enter** to run a cell, going from top to bottom.
